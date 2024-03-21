@@ -47,7 +47,7 @@ const Hero = () => {
                 Download CV
                 <Download size={18} />
               </Button> */}
-            <a href="https://drive.google.com/file/d/1GyRoZV49b54bTN7nKqU0wU949GeajxOZ/view?usp=drive_link" download>Download</a>
+            <a href="https://drive.google.com/file/d/1GyRoZV49b54bTN7nKqU0wU949GeajxOZ/view?usp=drive_link" download>Download CV</a>
              
              
             </div>
