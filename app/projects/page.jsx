@@ -47,7 +47,7 @@ const projectData = [
     description:
       'Developed a token-based system to manage appointments and mass token calls to avoid Queues',
     link: 'https://www.youtube.com/watch?v=51qOQxN7-fs',
-    github: '/',
+    github: 'https://www.youtube.com/watch?v=51qOQxN7-fs',
   },
   {
     image: '/work/6.png',
@@ -55,18 +55,18 @@ const projectData = [
     name: 'SnakeGame',
     description:
       'A basic snake game',
-    link: '/',
+    link: 'https://github.com/rush181200/SnakeGame',
     github: 'https://github.com/rush181200/SnakeGame',
   },
-  {
-    image: '/work/7.png',
-    category: 'Flutter',
-    name: 'CosmoDealer',
-    description:
-      'An Ecommerce Platform made with flutter and firebase',
-    link: 'https://play.google.com/store/apps/details?id=com.cosmodealer&hl=en_ZA&gl=US',
-    github: '/',
-  },
+  // {
+  //   image: '/work/7.png',
+  //   category: 'Flutter',
+  //   name: 'CosmoDealer',
+  //   description:
+  //     'An Ecommerce Platform made with flutter and firebase',
+  //   link: 'https://play.google.com/store/apps/details?id=com.cosmodealer&hl=en_ZA&gl=US',
+  //   github: '/',
+  // },
   
 ];
 

@@ -50,7 +50,7 @@ const projectData = [
     category: 'Java Spring Boot/Flutter',
     name: 'eQueue',
     link: 'https://www.youtube.com/watch?v=51qOQxN7-fs',
-    github: '/',
+    github: 'https://www.youtube.com/watch?v=51qOQxN7-fs',
   },
   
 ];
