@@ -20,8 +20,7 @@ const projectData = [
     image: '/work/1.png',
     category: 'JavaScript',
     name: 'Heuristic Path Finding Algorithms',
-    description:
-      'Improved methods, using techniques like BFS, DFS, Dijkstra, A*, and Greedy BFS algorithms.',
+   
     link: 'https://rush181200.github.io/path_finding_visualizer/',
     github: 'https://github.com/rush181200/path_finding_visualizer',
   },
@@ -29,8 +28,6 @@ const projectData = [
     image: '/work/2.png',
     category: 'Java Spring Boot',
     name: 'Book-Author-API',
-    description:
-      'This is a RESTful API built with Spring Boot and PostgreSQL for managing books and authors.',
     link: 'https://book-author-apis.onrender.com/swagger-ui/index.html',
     github: 'https://github.com/rush181200/book-author-apis',
   },
@@ -38,8 +35,6 @@ const projectData = [
     image: '/work/3.png',
     category: 'AWS',
     name: 'HealthCare',
-    description:
-      'Created a healthcare platform for users to schedule appointments with doctors.',
     link: 'https://medium.com/@rushabhm75/aws-connect-empowering-healthcare-through-flutter-and-video-calls-part-1-3c8dd5521887',
     github: 'https://github.com/rush181200/healthcare',
   },
@@ -47,8 +42,6 @@ const projectData = [
     image: '/work/4.png',
     category: 'Python',
     name: 'NewsInsta',
-    description:
-      'Created a platform which fetches the news from NewsApi and Post it on Instagram.',
     link: 'https://medium.com/@rushabhm75/automating-your-instagram-posts-with-python-unleash-the-power-of-code-and-creativity-3d6fcb257e36',
     github: 'https://github.com/rush181200/newsInsta',
   },
@@ -56,47 +49,10 @@ const projectData = [
     image: '/work/5.png',
     category: 'Java Spring Boot/Flutter',
     name: 'eQueue',
-    description:
-      'Developed a token-based system to manage appointments and mass token calls to avoid Queues',
     link: 'https://www.youtube.com/watch?v=51qOQxN7-fs',
     github: '/',
   },
-  {
-    image: '/work/4.png',
-    category: 'next js',
-    name: 'Envision Website',
-    description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
-    link: '/',
-    github: '/',
-  },
-  {
-    image: '/work/1.png',
-    category: 'fullstack',
-    name: 'Serenity Website',
-    description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
-    link: '/',
-    github: '/',
-  },
-  {
-    image: '/work/3.png',
-    category: 'fullstack',
-    name: 'Nova Website',
-    description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
-    link: '/',
-    github: '/',
-  },
-  {
-    image: '/work/2.png',
-    category: 'fullstack',
-    name: 'Zenith Website',
-    description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
-    link: '/',
-    github: '/',
-  },
+  
 ];
 
 const Work = () => {

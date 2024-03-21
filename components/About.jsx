@@ -20,7 +20,7 @@ const infoData = [
   },
   {
     icon: <Linkedin size={20} />,
-    text: 'https://www.linkedin.com/in/rushabhmehta18/',
+    text: 'www.linkedin.com/in/rushabhmehta18/',
   },
   {
     icon: <MailIcon size={20} />,
@@ -32,7 +32,7 @@ const infoData = [
   },
   {
     icon: <GraduationCap size={20} />,
-    text: "Master's of Science in Computer Science",
+    text: "Master's in Computer Science",
   },
   {
     icon: <HomeIcon size={20} />,
