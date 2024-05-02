@@ -88,16 +88,16 @@ const skillData = [
     title: 'skills',
     data: [
       {
-        name: 'Languages: Java, C++,  Javascript, Python, C, Dart, HTML, CSS, TypeScript, Bash Scripting',
+        name: 'Languages: anguages: Java, C++, Javascript, Python, C, Dart, HTML, CSS, Bash Scripting, Linux'
       },
       {
         name: 'Database: SQL, MySQL, NoSQL, AWS DynamoDB, PostgreSQL, MongoDB, Firebase',
       },
       {
-        name: 'Frameworks: Flutter, React.Js, Spring Boot, GraphQL, REST APIs, MockMVC, Spring Cloud, Hibernate, Node.Js',
+        name: 'Frameworks: Flutter, React.Js, Spring Boot, Spring Cloud, Spring Security, Node.Js, ORM, Hibernate',
       },
       {
-        name: 'Developer Tools: Amazon-web-service, Google Cloud, Azure, Docker, Kubernetes, Github, Microservices, Maven, Gradle, Kafka, Mockito, Linux',
+        name: 'Developer Tools: Amazon-web-service, Google Cloud, Azure, Docker, Jenkins, SonarQube, Kubernetes, Microservices,Maven, Gradle, Kafka, JWT Security, KeyCloak, REST APIs, MockMVC',
       },
       
     ],
