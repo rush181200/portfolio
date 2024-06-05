@@ -17,7 +17,7 @@ import ProjectCard from '@/components/ProjectCard';
 
 const projectData = [
   {
-    image: '/work/8.png',
+    image: '/work/8.jpeg',
     category: 'Java Spring Boot',
     name: 'Ecommerce CICD',
    
