@@ -21,6 +21,14 @@ import { Pagination } from 'swiper/modules';
 
 const reviewsData = [
   {
+    avatar: '/work/az.png',
+    name: 'AZ-900: Azure Fundamentals',
+    job: 'Azure',
+    review:
+      'Azure Cloud Foundation Certification',
+    link:'https://learn.microsoft.com/en-us/users/rushabhmehta-7181/credentials/3842a68b24ed7329'
+  },
+  {
     avatar: '/reviews/ude.png',
     name: 'Spring Security 6 Zero to Master',
     job: 'Udemy',

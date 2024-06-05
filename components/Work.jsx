@@ -17,6 +17,14 @@ import ProjectCard from '@/components/ProjectCard';
 
 const projectData = [
   {
+    image: '/work/8.png',
+    category: 'Java Spring Boot',
+    name: 'Ecommerce CICD',
+   
+    link: 'https://github.com/rush181200/ecommerce_react_spring_cicd',
+    github: 'https://github.com/rush181200/ecommerce_react_spring_cicd',
+  },
+  {
     image: '/work/1.png',
     category: 'JavaScript',
     name: 'Heuristic Path Finding Algorithms',
