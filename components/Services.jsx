@@ -22,10 +22,11 @@ const servicesData = [
   },
   {
     icon: <Gem size={72} strokeWidth={0.8} />,
-    title: 'AWS',
+    title: 'Azure/AWS',
     description:
-      'Empowering websites with seamless performance and scalability through AWS cloud solutions, leveraging expertise in EC2, S3, and REST APIs',
+      'Empowering websites with seamless performance and scalability through Azure/AWS cloud solutions, leveraging expertise in compute, storage and networking',
   },
+  
 ];
 
 const Services = () => {
