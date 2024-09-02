@@ -65,6 +65,11 @@ const qualificationData = [
     title: 'experience',
     data: [
       {
+        company: 'Web3Fusion LLC',
+        role: 'Data Analyst',
+        years: '08/2024 - Current',
+      },
+      {
         company: 'Millicent Techologies',
         role: 'Software Engineer',
         years: '08/2021 - 05/2022',
@@ -73,11 +78,6 @@ const qualificationData = [
         company: 'Freeloc IT solutions',
         role: 'Software Engineer',
         years: '08/2020 - 08/2021',
-      },
-      {
-        company: 'Fresh Genie',
-        role: 'Flutter Developer Intern',
-        years: '06/2017 - 09/2017',
       },
     ],
   },
@@ -88,7 +88,13 @@ const skillData = [
     title: 'skills',
     data: [
       {
-        name: 'Languages: anguages: Java, C++, Javascript, Python, C, Dart, HTML, CSS, Bash Scripting, Linux'
+        name: 'Languages: Java, Javascript, Python, Dart, HTML, CSS, Bash Scripting, Linux'
+      },
+      {
+        name: 'Data Tools: Power BI, Tableau, Matplotlib, Pandas, NumPy, SQL, Excel, Microsoft SQL Server Management Studio'
+      },
+      {
+        name: 'Data Analysis: Statistical Analysis, Predictive Modeling, A/B Testing'
       },
       {
         name: 'Database: SQL, MySQL, NoSQL, AWS DynamoDB, PostgreSQL, MongoDB, Firebase',
@@ -166,7 +172,7 @@ const About = () => {
                       Unmatched Service Quality for Over 3 Years
                     </h3>
                     <p className='subtitle max-w-xl mx-auto xl:mx-0'>
-                      I specialize in crafting intuitive System Designs, Mobile Apps and Websites with
+                      I specialize in crafting intuitive System Designs, Data Analytics Dashboard, Mobile Apps and Websites with
                       cutting-edge technology, delivering dynamic and engaging
                       user experiences.
                     </p>

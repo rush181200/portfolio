@@ -22,9 +22,9 @@ const servicesData = [
   },
   {
     icon: <Gem size={72} strokeWidth={0.8} />,
-    title: 'Azure/AWS',
+    title: 'Data Analytics',
     description:
-      'Empowering websites with seamless performance and scalability through Azure/AWS cloud solutions, leveraging expertise in compute, storage and networking',
+      'Transforming raw data into actionable insights through advanced analytics and visualization tools, leveraging expertise in SQL, Python, and BI platforms.'
   },
   
 ];

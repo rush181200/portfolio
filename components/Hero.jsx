@@ -29,7 +29,7 @@ const Hero = () => {
           {/* text */}
           <div className='flex max-w-[600px] flex-col justify-center mx-auto xl:mx-0 text-center xl:text-left'>
             <div className='text-sm uppercase font-semibold mb-4 text-primary tracking-[4px]'>
-              Backend | AWS Cloud | System Design | Software Engineer
+              Backend Engineer | Data Analyst
             </div>
             <h1 className='text-xl sm:text-4xl lg:text-6xl mb-4'>Hello, my name is Rushabh Mehta</h1>
 
@@ -37,7 +37,7 @@ const Hero = () => {
             "Empower your tomorrow with today's actions."
             </p>
             {/* buttons */}
-            <div className='flex flex-col gap-y-3 md:flex-row gap-x-3 mx-auto xl:mx-0 mb-12'>
+            {/* <div className='flex flex-col gap-y-3 md:flex-row gap-x-3 mx-auto xl:mx-0 mb-12'> */}
               {/* <Link href='/contact'>
                 <Button className='gap-x-2'>
                   Contact me <Send size={18} />
@@ -48,10 +48,10 @@ const Hero = () => {
                 <Download size={18} />
               </Button> */}
               
-            <a href="https://drive.google.com/file/d/1bgpNaxZoSfj2M3SbxrcwinUsWyjqXJa6/view?usp=drive_link" download>Download CV</a>
+            {/* <a href="https://drive.google.com/file/d/1bgpNaxZoSfj2M3SbxrcwinUsWyjqXJa6/view?usp=drive_link" download>Download CV</a> */}
              
              
-            </div>
+            {/* </div> */}
             {/* socials */}
             <Socials
               containerStyles='flex gap-x-6 mx-auto xl:mx-0'
