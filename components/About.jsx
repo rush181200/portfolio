@@ -66,7 +66,7 @@ const qualificationData = [
     data: [
       {
         company: 'Web3Fusion LLC',
-        role: 'Data Analyst',
+        role: 'Software Engineer',
         years: '08/2024 - Current',
       },
       {
