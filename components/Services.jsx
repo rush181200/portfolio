@@ -24,7 +24,7 @@ const servicesData = [
     icon: <Gem size={72} strokeWidth={0.8} />,
     title: "Data Analytics & Machine Learning",
     description:
-      "Transforming raw data into actionable insights through advanced analytics, AI/ML models, and deep learning, leveraging expertise in SQL, Python, and BI platforms for impactful visualization.",
+      "Transforming raw data into actionable insights through advanced analytics, AI/ML models, and deep learning, leveraging expertise in SQL, Python, and BI platforms.",
   },
 ];
 
