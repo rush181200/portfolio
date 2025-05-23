@@ -24,7 +24,7 @@ const infoData = [
   },
   {
     icon: <MailIcon size={20} />,
-    text: "rmehta13@binghamton.edu",
+    text: "rushabhm75@gmail.com",
   },
   {
     icon: <Calendar size={20} />,
@@ -36,7 +36,7 @@ const infoData = [
   },
   {
     icon: <HomeIcon size={20} />,
-    text: "Binghamton, NY, USA",
+    text: "Irving, Texas, United States",
   },
 ];
 
@@ -49,11 +49,11 @@ const qualificationData = [
         qualification: "Master's of Science in Computer Science",
         years: "2022 - 2024",
       },
-      {
-        university: "University of Mumbai",
-        qualification: "Bachelor's of Engineering in Computer Science",
-        years: "2017 - 2021",
-      },
+      // {
+      //   university: "University of Mumbai",
+      //   qualification: "Bachelor's of Engineering in Computer Science",
+      //   years: "2017 - 2021",
+      // },
       // {
       //   university: 'Yet Another University',
       //   qualification: 'Ph.D in Computer Science',
@@ -77,7 +77,7 @@ const qualificationData = [
       {
         company: "Freeloc IT solutions",
         role: "Software Engineer",
-        years: "08/2020 - 08/2021",
+        years: "08/2019 - 08/2021",
       },
     ],
   },
@@ -91,20 +91,20 @@ const skillData = [
         name: "Languages: Java, Javascript, Python, Dart, HTML, CSS",
       },
       {
-        name: "Data Tools: Power BI, Tableau, Matplotlib, Pandas, NumPy, SQL, Excel, Microsoft SQL Server Management Studio",
+        name: "Frameworks : Spring Boot, Spring Cloud, Spring Security, Flutter, React, Nodejs",
       },
       {
-        name: "Data Analysis/ Machine Learning: Statistical Analysis, Predictive Modeling, A/B Testing, NLU designs, NLP, Kore.ai - Chatbot Integrations, AI",
+        name: "Web Services: Microservices Architecture, RESTful APIs, gRPC, Event-Driven, Serverless, Apache Kafka",
       },
       {
-        name: "Database: SQL, MySQL, NoSQL, AWS DynamoDB, PostgreSQL, MongoDB, Firebase",
+        name: "Databases :  MySQL, MongoDB, Redis, Firebase ",
       },
       {
-        name: "Frameworks: Flutter, React.Js, Spring Boot, Spring Cloud, Spring Security, Node.Js, ORM, Hibernate",
+        name: "Cloud & DevOps: AWS (EC2, S3, RDS, Lambda, API Gateway, CloudWatch), Docker, Kubernetes, Jenkins, CI/CD",
       },
-      {
-        name: "Developer Tools: Amazon-web-service, Google Cloud, Azure, Docker, Jenkins, SonarQube, Kubernetes, Microservices,Maven, Gradle, Kafka, JWT Security, KeyCloak, REST APIs, MockMVC",
-      },
+      // {
+      //   name: "Developer Tools: Amazon-web-service, Google Cloud, Azure, Docker, Jenkins, SonarQube, Kubernetes, Microservices,Maven, Gradle, Kafka, JWT Security, KeyCloak, REST APIs, MockMVC",
+      // },
     ],
   },
   {

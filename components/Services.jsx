@@ -22,9 +22,9 @@ const servicesData = [
   },
   {
     icon: <Gem size={72} strokeWidth={0.8} />,
-    title: "Data Analytics & Machine Learning",
+    title: "Web & Mobile",
     description:
-      "Transforming raw data into actionable insights through advanced analytics, AI/ML models, and deep learning, leveraging expertise in SQL, Python, and BI platforms.",
+      "Build responsive mobile and web experiences with clean architecture, secure APIs, and performance-focused design, backed by hands-on development expertise.",
   },
 ];
 
