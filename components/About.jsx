@@ -171,8 +171,7 @@ const About = () => {
                       Unmatched Service Quality for Over 3 Years
                     </h3>
                     <p className="subtitle max-w-xl mx-auto xl:mx-0">
-                      I specialize in crafting intuitive System Designs, Data
-                      Analytics Dashboard, Mobile Apps and Websites with
+                      I specialize in crafting intuitive System Designs, Backend & Cloud, Mobile Apps and Websites with
                       cutting-edge technology, delivering dynamic and engaging
                       user experiences.
                     </p>
